@@ -10,7 +10,7 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
 
 ---
 
-## 🛠️ My Tech Stack & Tools (Continuously Exploring)
+## 🛠️ My Tech Stack & Tools (I'm always exploring...)
 
 *   **Languages:** Python, Bash, SQL
 *   **Security & OT Tools:** Wireshark, Nmap, OpenPLC, Fuxa, Linux, MISP
