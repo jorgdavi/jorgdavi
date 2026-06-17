@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🚀 Securing the Future: Cyber | AI/ML | OT Security
 
-<!--
-**jorgdavi/jorgdavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am a cybersecurity analyst driven by a specific mission: **securing the smart, connected industrial systems of tomorrow.** 
 
-Here are some ideas to get you started:
+As critical infrastructure increasingly relies on automation and AI, the attack surface grows exponentially. I use this space to build, break, and document my journey at the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🔒 **OT/ICS Security** — Understanding PLC protocols (Modbus, DNP3), SCADA networks, and mitigating physical-world cyber threats.
+*   🤖 **AI/ML for Defense** — Leveraging data science for threat hunting, anomaly detection, and exploring adversarial ML defenses.
+*   🛡️ **Core Cybersecurity** — Network monitoring, packet analysis, blue-teaming, and hands-on home-labbing.
+
+---
+
+## 🛠️ My Tech Stack & Tools (Continuously Exploring)
+
+*   **Languages:** Python, Bash, SQL
+*   **Security & OT Tools:** Wireshark, Nmap, OpenPLC, Fuxa, Linux, MISP
+*   **Data Science:** Pandas, NumPy, matplotlib, Scikit-Learn, JMP
+
+---
+
+## 📁 Featured Projects & Labs
+
+*📍 As I build out my portfolio, my best work will be featured right here!*
+
+---
+
+## 📈 Connect With Me
+
+*   💼 **LinkedIn:** linkedin.com/in/jori-d-902886240
+*   🎯 **Current Goal:** Collaborating on different projects in Cyber-AI and ICS/OT security.
