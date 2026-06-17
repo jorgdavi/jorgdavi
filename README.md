@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="your-uploaded-image.png" alt="Profile Banner" width="100%">
-</p>
-
 # 🚀 Securing the Future: Cyber | AI/ML | OT Security
 
 Welcome to my GitHub! I am a cybersecurity analyst driven by a specific mission: **securing the smart, connected industrial systems of tomorrow.** 
