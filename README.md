@@ -20,7 +20,9 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
 
 ## 📁 Featured Projects & Labs
 
-*📍 As I build out my portfolio, my best work will be featured right here!*
+*📍 Vulnerability Management Program Implementation
+*📍 Threat Hunting
+
 
 ---
 
