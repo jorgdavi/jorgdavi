@@ -20,8 +20,8 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
 
 ## 📁 Featured Projects & Labs
 
-* 📍 **Vulnerability Management Program Implementation
-* 📍 **Threat Hunting
+* Vulnerability Management Program Implementation
+* Threat Hunting
 
 
 ---
