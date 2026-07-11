@@ -21,7 +21,7 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
 ## 📁 Featured Projects & Labs
 
 * Core Cybersecurity
-  * Vulnerability Management Program Implementation
+  * [Vulnerability Management Program Implementation]
   * Threat Hunting
 
 * AI/ML
