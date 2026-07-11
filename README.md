@@ -25,10 +25,10 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
   - Threat Hunting
 
 * AI/ML
-  * Anomaly Detection
+  - Anomaly Detection
 
 * OT/ICS
-  * OpenPLC
+  - OpenPLC
 
 
 ---
