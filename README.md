@@ -35,9 +35,8 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
 
 ## 📈 Connect With Me
 
+🎯 **Current Goal:** Collaborating on different projects in Cyber-AI and ICS/OT security.
+
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/___________
-
-   
-   🎯 **Current Goal:** Collaborating on different projects in Cyber-AI and ICS/OT security.
