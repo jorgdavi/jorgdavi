@@ -22,14 +22,6 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
 
 * Core Cybersecurity
   - **[Vulnerability Management Program Implementation](https://github.com/jorgdavi/vulnerability-management-project)**
-  - Threat Hunting
-
-* AI/ML
-  - Anomaly Detection
-
-* OT/ICS
-  - OpenPLC
-
 
 ---
 
