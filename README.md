@@ -35,5 +35,6 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
 
 ## 📈 Connect With Me
 
-*   💼 **LinkedIn:** linkedin.com/in/jori-d-902886240
-*   🎯 **Current Goal:** Collaborating on different projects in Cyber-AI and ICS/OT security.
+   [linkedin]: https://linkedin.com/in/jori-d-902886240
+   
+   🎯 **Current Goal:** Collaborating on different projects in Cyber-AI and ICS/OT security.
