@@ -31,4 +31,4 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://linkedin.com/in/jori-d-902886240
