@@ -35,6 +35,10 @@ As critical infrastructure increasingly relies on automation and AI, the attack 
 
 ## 📈 Connect With Me
 
-    * **linkedin:** https://linkedin.com/in/jori-d-902886240
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jori-d-902886240)
+[![Twitter/X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+
    
    🎯 **Current Goal:** Collaborating on different projects in Cyber-AI and ICS/OT security.
