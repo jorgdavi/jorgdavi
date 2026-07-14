@@ -4,9 +4,9 @@ Welcome to my GitHub! I am a cybersecurity analyst driven by a specific mission:
 
 As critical infrastructure increasingly relies on automation and AI, the attack surface grows exponentially. I use this space to build, break, and document my journey at the intersection of:
 
-*   🔒 **OT/ICS Security** — Understanding PLC protocols (Modbus, DNP3), SCADA networks, and mitigating physical-world cyber threats.
-*   🤖 **AI/ML for Defense** — Leveraging data science for threat hunting, anomaly detection, and exploring adversarial ML defenses.
-*   🛡️ **Core Cybersecurity** — Network monitoring, packet analysis, blue-teaming, and hands-on home-labbing.
+*   🔒 **OT/ICS Security** - Understanding PLC protocols (Modbus, DNP3), SCADA networks, and mitigating physical-world cyber threats.
+*   🤖 **AI/ML for Defense** - Leveraging data science for threat hunting, anomaly detection, and exploring adversarial ML defenses.
+*   🛡️ **Core Cybersecurity** - Network monitoring, packet analysis, blue-teaming, and hands-on home-labbing.
 
 ---
 
